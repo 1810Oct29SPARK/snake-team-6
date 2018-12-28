@@ -1,0 +1,9 @@
+package beans;
+
+public class Habitat {
+
+	public Habitat() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

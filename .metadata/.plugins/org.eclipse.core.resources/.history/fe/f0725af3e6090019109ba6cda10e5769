@@ -1,0 +1,9 @@
+package beans;
+
+public class snakes {
+
+	public snakes() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

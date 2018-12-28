@@ -1,0 +1,22 @@
+package beans;
+
+public class snakes {
+
+	public snakes() {
+		
+	}
+
+	//SNAKE_ID INTEGER PRIMARY KEY,
+	//FIRSTNAME VARCHAR2(30),
+	//SPECIES VARCHAR2(30),
+	//AGE INTEGER,
+	//H_ID INTEGER
+	
+	private int snake_ID;
+	private String firstName;
+	private String species;
+	private int age;
+	private int h_ID;
+	
+	
+}

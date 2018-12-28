@@ -1,0 +1,9 @@
+C\:/Users/njahr/OneDrive/Documents/snake-team/snakey/target/m2e-wtp/web-resources = snakey.war
+C\:/Users/njahr/OneDrive/Documents/snake-team/.metadata/.plugins/org.eclipse.core.resources/snakey/build/weboutput = snakey.war
+C\:/Users/njahr/OneDrive/Documents/snake-team/snakey/src/main/webapp = snakey.war
+C\:/Users/njahr/OneDrive/Documents/snake-team/snakey/target/classes = snakey.war/WEB-INF/classes
+C\:/Users/njahr/.m2/repository/com/oracle/ojdbc/ojdbc/12.1.0.1/ojdbc-12.1.0.1.jar = snakey.war/WEB-INF/lib/ojdbc-12.1.0.1.jar
+C\:/Users/njahr/.m2/repository/javax/servlet/javax.servlet-api/4.0.1/javax.servlet-api-4.0.1.jar = snakey.war/WEB-INF/lib/javax.servlet-api-4.0.1.jar
+C\:/Users/njahr/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.jar = snakey.war/WEB-INF/lib/jackson-databind-2.9.7.jar
+C\:/Users/njahr/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar = snakey.war/WEB-INF/lib/jackson-annotations-2.9.0.jar
+C\:/Users/njahr/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.jar = snakey.war/WEB-INF/lib/jackson-core-2.9.7.jar

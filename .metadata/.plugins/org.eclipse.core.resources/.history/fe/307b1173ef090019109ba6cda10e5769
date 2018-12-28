@@ -1,0 +1,9 @@
+package services;
+
+public class SnakeServiceImpl {
+
+	public SnakeServiceImpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

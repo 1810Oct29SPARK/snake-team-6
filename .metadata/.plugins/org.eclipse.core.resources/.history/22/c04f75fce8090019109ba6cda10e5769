@@ -1,0 +1,9 @@
+package daos;
+
+public class SnakesDAOImpl {
+
+	public SnakesDAOImpl() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
